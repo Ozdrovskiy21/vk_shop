@@ -1,0 +1,2 @@
+rootProject.name='VKshop2'
+include ':app'
